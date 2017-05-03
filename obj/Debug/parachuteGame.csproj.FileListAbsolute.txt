@@ -1,0 +1,6 @@
+C:\Users\Eko\Desktop\tilemap resimleri\parachuteGame\parachuteGame\bin\parachuteGame.dll.config
+C:\Users\Eko\Desktop\tilemap resimleri\parachuteGame\parachuteGame\bin\parachuteGame.dll
+C:\Users\Eko\Desktop\tilemap resimleri\parachuteGame\parachuteGame\bin\parachuteGame.pdb
+C:\Users\Eko\Desktop\tilemap resimleri\parachuteGame\parachuteGame\obj\Debug\parachuteGame.csprojResolveAssemblyReference.cache
+C:\Users\Eko\Desktop\tilemap resimleri\parachuteGame\parachuteGame\obj\Debug\parachuteGame.dll
+C:\Users\Eko\Desktop\tilemap resimleri\parachuteGame\parachuteGame\obj\Debug\parachuteGame.pdb
